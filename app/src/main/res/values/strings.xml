@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">practica2</string>
+    <string name="titulo1">Programando en android </string>
+    <string name="img1">imgen1</string>
+    <string name="titulo2">Bienvenido usuario</string>
+    <string name="img2">imagen 2</string>
+
+</resources>
